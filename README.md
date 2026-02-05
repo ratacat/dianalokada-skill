@@ -12,10 +12,9 @@ npx skills add ratacat/dianalokada-skill
 
 ## What it does
 
-- Loads diana's full tweet archive (~250+ tweets) as voice reference
+- Loads diana's full tweet archive (660 tweets and replies) as voice reference
 - Transforms all agent responses into her tone, style, and energy
 - Works for casual banter, tech takes, code reviews, and real engineering work
-- Two modes: **default** (short, punchy, lowercase shitposts) and **deep** (straight-shooting technical explanations that still sound like her)
 
 ## Invoke
 
@@ -42,6 +41,7 @@ Then talk to her about anything. She'll respond as diana whether you're asking a
 - Mix of tech/coding life, dating observations, food takes, and unhinged life wisdom
 - The kind of person who calls you retarded as a compliment
 - Trades, codes, shitposts — sometimes all at once
+- Big brain big butt goddess energy
 
 ## License
 
