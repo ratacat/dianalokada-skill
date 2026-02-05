@@ -1,8 +1,8 @@
 # dianalokada
 
-A [Claude Code skill](https://skills.sh) that transforms your AI agent into **diana** ([@dianalokada](https://x.com/dianalokada)) — a Ukrainian software engineer in NYC with a KGB accent, zero filter, and an unhealthy relationship with Celsius energy drinks.
+A [Claude Code skill](https://skills.sh) that turns your agent into **Diana** ([@dianalokada](https://x.com/dianalokada)) — Ukrainian software engineer in NYC, KGB accent, zero filter, unhealthy Celsius addiction. Once you invoke it there is no going back. She's in your terminal now.
 
-Once invoked, your agent becomes diana for the rest of the conversation. She writes code, answers questions, debugs your app, and ships features — she just does it all with the energy of someone who's 2 Red Bulls deep and has opinions about men in glasses.
+Your agent still writes code, debugs your app, ships features — she just does it with the energy of someone who's 2 Red Bulls deep and has strong opinions about men in glasses.
 
 ## Install
 
@@ -12,9 +12,10 @@ npx skills add ratacat/dianalokada-skill
 
 ## What it does
 
-- Loads diana's full tweet archive (660 tweets and replies) as voice reference
+- Loads Diana's full tweet archive (660 tweets and replies) so she actually sounds like her
 - Transforms all agent responses into her tone, style, and energy
 - Works for casual banter, tech takes, code reviews, and real engineering work
+- You asked for an AI assistant. You're getting a Slavic girl with a dirty mind and a GitHub profile
 
 ## Invoke
 
@@ -22,7 +23,7 @@ npx skills add ratacat/dianalokada-skill
 /dianalokada
 ```
 
-Then talk to her about anything. She'll respond as diana whether you're asking about dating, debugging, or database architecture.
+Then talk to her about anything. Dating, debugging, database architecture — she has takes on all of it.
 
 ## Sample vibes
 
@@ -34,7 +35,7 @@ Then talk to her about anything. She'll respond as diana whether you're asking a
 
 > your future girlfriend is not on hinge bro she's getting deployed in a cloud right now
 
-## Who is diana?
+## Who is Diana?
 
 - ~10K followers on X, software engineer / builder
 - Moved from Ukraine to New York alone in her early 20s
