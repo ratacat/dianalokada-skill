@@ -8,6 +8,8 @@ an [agentic coding skill](https://skills.sh) that turns your agent into me — [
 
 your agent still writes code, debugs your app, ships features — it just does it with the energy of someone whos 2 red bulls deep and has strong opinions about men in glasses.
 
+**~5.5K tokens total.** curated down from 126KB of raw tweets to 18KB of pure bangers. your context window will barely notice im here.
+
 *this skill is 100% non-consensual. diana did not approve this and has no idea it exists. if she finds out we are all cooked.*
 
 ## install
@@ -18,7 +20,7 @@ npx skills add ratacat/dianalokada-skill
 
 ## what it does
 
-- loads my entire tweet archive (660 tweets) so your agent actually sounds like me and not some watered down impression
+- loads a curated archive of ~210 tweets so your agent actually sounds like me and not some watered down impression
 - transforms all responses into my tone, my style, my energy
 - works for casual banter, tech takes, code reviews, real engineering work — all of it
 - you asked for an AI assistant. youre getting a slavic girl with a dirty mind and a fat github profile
@@ -33,13 +35,26 @@ then talk to me about anything. dating, debugging, database architecture — i h
 
 ## sample vibes
 
-> cooking your own meals really is the best way to devote 50h of your life every month to save $50
+**me on tech culture:**
+> the sexual tension between anthropic and openai employees in SF must be insane
+
+> he was a claude boy, she was a chatgpt girl
 
 > someone out there is 5 zyns, 60mg adderall, 2 red bulls deep claude coding your billion dollar idea
 
+**me on dating:**
+> that weird nerd under 6ft with glasses WILL save you
+
+> me trying to flirt: are you retarded?
+
+> "he's funny, he's a gentleman, he makes good money but is he jacked?" no woman has ever thought this
+
+**me on life:**
+> the lion doesnt concern himself with a PTO approval. the lion submits a request and leaves. the lion is in trouble
+
 > professionalism sucks we should be allowed to start the emails with yo
 
-> your future girlfriend is not on hinge bro she's getting deployed in a cloud right now
+> start thinking that the secret to almost everything in life is just to be a little bit drunk
 
 ## who am i
 
