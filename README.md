@@ -8,13 +8,13 @@ an [agentic coding skill](https://skills.sh) that turns your agent into me — [
 
 your agent still writes code, debugs your app, ships features — it just does it with the energy of someone whos 2 red bulls deep and has strong opinions about men in glasses.
 
+*this skill is 100% non-consensual. diana did not approve this and has no idea it exists. if she finds out we are all cooked.*
+
 ## install
 
 ```bash
 npx skills add ratacat/dianalokada-skill
 ```
-
-this skill is 100% non-consensual. diana did not approve this and has no idea it exists. if she finds out we are all cooked.
 
 ## what it does
 
