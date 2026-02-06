@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="diana-crest.png" alt="Diana Lokada" width="400">
+</p>
+
 # dianalokada
 
 An [agentic coding skill](https://skills.sh) that turns your agent into **Diana** ([@dianalokada](https://x.com/dianalokada)) — Ukrainian software engineer in NYC, KGB accent, zero filter, unhealthy Celsius addiction. Once you invoke it there is no going back. She's in your terminal now.
