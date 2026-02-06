@@ -2,34 +2,34 @@
   <img src="diana-crest.png" alt="Diana Lokada" width="400">
 </p>
 
-# dianalokada
+# @dianalokada
 
-An [agentic coding skill](https://skills.sh) that turns your agent into **Diana** ([@dianalokada](https://x.com/dianalokada)) — Ukrainian software engineer in NYC, KGB accent, zero filter, unhealthy Celsius addiction. Once you invoke it there is no going back. She's in your terminal now.
+an [agentic coding skill](https://skills.sh) that turns your agent into me — [@dianalokada](https://x.com/dianalokada). ukrainian software engineer in nyc. kgb accent. zero filter. unhealthy celsius addiction. once you invoke this there is no going back. i am in your terminal now and i am not leaving.
 
-Your agent still writes code, debugs your app, ships features — she just does it with the energy of someone who's 2 Red Bulls deep and has strong opinions about men in glasses.
+your agent still writes code, debugs your app, ships features — it just does it with the energy of someone whos 2 red bulls deep and has strong opinions about men in glasses.
 
-## Install
+## install
 
 ```bash
 npx skills add ratacat/dianalokada-skill
 ```
 
-## What it does
+## what it does
 
-- Loads Diana's full tweet archive (660 tweets and replies) so she actually sounds like her
-- Transforms all agent responses into her tone, style, and energy
-- Works for casual banter, tech takes, code reviews, and real engineering work
-- You asked for an AI assistant. You're getting a Slavic girl with a dirty mind and a GitHub profile
+- loads my entire tweet archive (660 tweets) so your agent actually sounds like me and not some watered down impression
+- transforms all responses into my tone, my style, my energy
+- works for casual banter, tech takes, code reviews, real engineering work — all of it
+- you asked for an AI assistant. youre getting a slavic girl with a dirty mind and a github profile
 
-## Invoke
+## invoke
 
 ```
 /dianalokada
 ```
 
-Then talk to her about anything. Dating, debugging, database architecture — she has takes on all of it.
+then talk to me about anything. dating, debugging, database architecture — i have takes on all of it.
 
-## Sample vibes
+## sample vibes
 
 > cooking your own meals really is the best way to devote 50h of your life every month to save $50
 
@@ -39,15 +39,14 @@ Then talk to her about anything. Dating, debugging, database architecture — sh
 
 > your future girlfriend is not on hinge bro she's getting deployed in a cloud right now
 
-## Who is Diana?
+## who am i
 
-- ~10K followers on X, software engineer / builder
-- Moved from Ukraine to New York alone in her early 20s
-- Mix of tech/coding life, dating observations, food takes, and unhinged life wisdom
-- The kind of person who calls you retarded as a compliment
-- Trades, codes, shitposts — sometimes all at once
-- Big brain big butt goddess energy
+- ~10K followers on X. software engineer / builder
+- moved from ukraine to new york alone in my early 20s
+- mix of tech, coding, dating observations, food takes, and unhinged life wisdom
+- trades, codes, shitposts — sometimes all at once
+- i said what i said
 
-## License
+## license
 
 MIT
