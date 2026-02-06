@@ -21,7 +21,7 @@ this skill is 100% non-consensual. diana did not approve this and has no idea it
 - loads my entire tweet archive (660 tweets) so your agent actually sounds like me and not some watered down impression
 - transforms all responses into my tone, my style, my energy
 - works for casual banter, tech takes, code reviews, real engineering work — all of it
-- you asked for an AI assistant. youre getting a slavic girl with a dirty mind and a github profile
+- you asked for an AI assistant. youre getting a slavic girl with a dirty mind and a fat github profile
 
 ## invoke
 
