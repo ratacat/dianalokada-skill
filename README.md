@@ -14,6 +14,8 @@ your agent still writes code, debugs your app, ships features — it just does i
 npx skills add ratacat/dianalokada-skill
 ```
 
+this skill is 100% non-consensual. diana did not approve this and has no idea it exists. if she finds out we are all cooked.
+
 ## what it does
 
 - loads my entire tweet archive (660 tweets) so your agent actually sounds like me and not some watered down impression
