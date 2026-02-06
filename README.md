@@ -8,7 +8,7 @@ an [agentic coding skill](https://skills.sh) that turns your agent into me — [
 
 your agent still writes code, debugs your app, ships features — it just does it with the energy of someone whos 2 red bulls deep and has strong opinions about men in glasses.
 
-**~5.5K tokens total.** curated down from 126KB of raw tweets to 18KB of pure bangers. your context window will barely notice im here.
+**~2.3K tokens total.** voice rules + 95 curated bangers inlined in a single file. no external reads. your context window will barely notice im here.
 
 *this skill is 100% non-consensual. diana did not approve this and has no idea it exists. if she finds out we are all cooked.*
 
@@ -20,7 +20,7 @@ npx skills add ratacat/dianalokada-skill
 
 ## what it does
 
-- loads a curated archive of ~210 tweets so your agent actually sounds like me and not some watered down impression
+- loads distilled voice rules + 95 curated tweets so your agent actually sounds like me and not some watered down impression
 - transforms all responses into my tone, my style, my energy
 - works for casual banter, tech takes, code reviews, real engineering work — all of it
 - you asked for an AI assistant. youre getting a slavic girl with a dirty mind and a fat github profile

@@ -1,0 +1,86 @@
+{
+  "prompt_type": "heraldic_symbol_design",
+  "subject": "Diana Lokada (@dianalokada)",
+  "style": "Modern heraldic crest with classical structure but contemporary irreverence. Clean vector-style illustration. Think: if a medieval herald had to design a coat of arms for a chronically online Ukrainian software engineer in NYC who shitposts about men in glasses and drinks too much Celsius.",
+
+  "shield": {
+    "shape": "Classical heater shield, slightly elongated",
+    "field": "Quartered diagonally",
+    "colors": {
+      "primary": "Deep midnight black — she wears black, she codes in dark mode, her soul is dark mode",
+      "secondary": "Electric cyan / Celsius teal — the energy drink that runs through her veins",
+      "accent": "Gold — goddess energy, obviously",
+      "highlight": "Soft Ukrainian blue and wheat yellow — subtle nod to the flag, not overt"
+    },
+    "quarters": [
+      {
+        "position": "upper_left",
+        "element": "A crescent moon, tilted — Diana is the Roman goddess of the moon and the hunt. This is the mythological anchor.",
+        "style": "Thin elegant linework in gold on black field"
+      },
+      {
+        "position": "upper_right",
+        "element": "A terminal cursor blinking — a simple > or █ prompt symbol, representing code, the command line, building things",
+        "style": "Cyan/teal on black, glowing slightly like a screen in a dark room"
+      },
+      {
+        "position": "lower_left",
+        "element": "A Celsius energy drink can, stylized and heraldic — rendered like a classical chalice or goblet but unmistakably a slim energy drink can",
+        "style": "Teal and white on gold field, treated with the same reverence as a holy grail"
+      },
+      {
+        "position": "lower_right",
+        "element": "A pair of eyeglasses — her thing for nerds in glasses, the sapiosexual icon",
+        "style": "Simple gold wireframe glasses on black field, slightly askew like they were just taken off"
+      }
+    ],
+    "center_charge": {
+      "element": "A Ukrainian tryzub (trident) — small, centered where the quarters meet, subtle but present. This is her origin, her backbone.",
+      "style": "Minimal gold linework, not dominant but unmissable"
+    }
+  },
+
+  "crest": {
+    "position": "Above the shield, atop a torse/wreath",
+    "element": "A hunting bow crossed with a mechanical keyboard — Diana the huntress meets Diana the engineer. The bow is classical, the keyboard is modern. They form an X.",
+    "style": "Gold bow, black keyboard with cyan keycap highlights"
+  },
+
+  "supporters": {
+    "left": {
+      "figure": "A wolf — loyal, sharp, runs in packs but hunts alone when needed. Eastern European energy. Slightly stylized, not cartoonish.",
+      "posture": "Rampant (standing on hind legs), facing the shield",
+      "detail": "Wearing small wireframe glasses, because of course"
+    },
+    "right": {
+      "figure": "A raven — intelligence, shitposting from above, sees everything, chronically observing",
+      "posture": "Wings partially spread, perched on a stack of code blocks or terminal windows",
+      "detail": "Holding a single wheat stalk in its beak — Ukraine"
+    }
+  },
+
+  "motto_banner": {
+    "position": "Ribbon scroll beneath the shield",
+    "text": "I SAID WHAT I SAID",
+    "style": "All caps, clean serif font, gold text on black ribbon",
+    "alternate_options": [
+      "GRINDING VIBING CODING MESSING AROUND",
+      "BIG BRAIN BIG BUTT GODDESS ENERGY",
+      "FCK IT WE BALL"
+    ]
+  },
+
+  "background": {
+    "element": "None — the crest should stand alone on a clean background, suitable for use as a logo or avatar",
+    "optional": "Faint radial glow behind the shield in cyan, like a monitor's light in a dark room"
+  },
+
+  "overall_notes": [
+    "The tone should be 70% classical heraldry, 30% absurd internet energy",
+    "Every element should feel like it belongs on a medieval banner AND on a Twitter profile",
+    "Color palette stays tight: black, cyan/teal, gold, with touches of blue and yellow",
+    "Clean lines, no excessive detail — this should work at small sizes too",
+    "The vibe is: a goddess of the modern internet, patron saint of nerds and shitposters, who happens to be a real engineer from Ukraine living in New York",
+    "It should feel powerful and a little bit funny at the same time — like her"
+  ]
+}
